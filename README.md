@@ -1,4 +1,4 @@
-# Harlequin 128K Issue 4b - A ZX Spectrum 128K / +2A Clone
+# Superfo Harlequin 128K - A ZX Spectrum 128K / +2A Clone
 
 This repository documents the complete development of a functional
 A ZX Spectrum 128K / +2A Clone, following the schematics, 
