@@ -30,6 +30,6 @@ architecture while documenting the full hardware development process.
 Includes assembling instructions and smoke test
 
 ## Software
-Incluedes utilities
+Includes utilities
 
 
