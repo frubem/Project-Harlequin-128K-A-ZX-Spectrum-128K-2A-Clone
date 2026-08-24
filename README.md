@@ -1,4 +1,4 @@
-# Superfo Harlequin 128K - A ZX Spectrum 128K / +2A Clone
+# Harlequin 128K - A ZX Spectrum 128K / +2A Clone
 
 This repository documents the complete development of a functional
 A ZX Spectrum 128K / +2A Clone, following the schematics, 
@@ -20,7 +20,10 @@ architecture while documenting the full hardware development process.
 7) Floppy Disk Interface for ZX Spectrum 2A - ver 2: https://github.com/frubem/ZX-Spectrum-plus2A-fdd-interface
 8) Floppy Disk Interface for ZX Spectrum 2A - ver 3: https://github.com/frubem/PLUS-2A-FDC-LIGHT
 9) ZX Spectrum Beta Disk Interface: https://github.com/frubem/ZX-Spectrum-BDI-TR-DOS-interface
-10) Simple 8 Bit IDE Interface for Spectrum 3e: https://github.com/frubem/Simple-8-Bit-IDE-Interface-for-Spectrum-3e/tree/main
+10) 8 Bit IDE Interface for Spectrum 3e - ver 1: https://github.com/frubem/Simple-8-Bit-IDE-Interface-for-Spectrum-3e
+11) 8 Bit IDE Interface for Spectrum 3e - ver 2: https://github.com/frubem/Spec-IDE-Interface
+12) 8 Bit IDE Interface for Spectrum 3e - ver 3: 
+13) DIVIDE :
 11) DivTIESUS a SD/MMC card interface for the ZX Spectrum: https://github.com/frubem/divtiesus 
 
 ## Instructions
