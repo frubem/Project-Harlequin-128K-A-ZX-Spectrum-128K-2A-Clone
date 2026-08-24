@@ -23,7 +23,7 @@ architecture while documenting the full hardware development process.
 10) 8 Bit IDE Interface for Spectrum 3e - ver 1: https://github.com/frubem/Simple-8-Bit-IDE-Interface-for-Spectrum-3e
 11) 8 Bit IDE Interface for Spectrum 3e - ver 2: https://github.com/frubem/Spec-IDE-Interface
 12) 8 Bit IDE Interface for Spectrum 3e - ver 3: 
-13) DIVIDE :
+13) DIVIDE an 16 bit ATA (IDE) interface : https://github.com/frubem/DIVIDE
 11) DivTIESUS a SD/MMC card interface for the ZX Spectrum: https://github.com/frubem/divtiesus 
 
 ## Instructions
